@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "229011832309",
+    "firebase_url": "https://comsian-cart-f75b5-default-rtdb.firebaseio.com",
+    "project_id": "comsian-cart-f75b5",
+    "storage_bucket": "comsian-cart-f75b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229011832309:android:629c91ad88f3f67ca9b4bc",
+        "android_client_info": {
+          "package_name": "com.example.admin_portel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229011832309-vfpaf6qrgmpl6tu67roqbi582s1lnrgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuC3cYT6xtWuKfLD4M9d0w928C7Oq2UJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229011832309-vfpaf6qrgmpl6tu67roqbi582s1lnrgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229011832309:android:3b88ac5cacaadf6aa9b4bc",
+        "android_client_info": {
+          "package_name": "com.example.student_record_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229011832309-vfpaf6qrgmpl6tu67roqbi582s1lnrgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuC3cYT6xtWuKfLD4M9d0w928C7Oq2UJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229011832309-vfpaf6qrgmpl6tu67roqbi582s1lnrgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
